@@ -27,3 +27,8 @@ bin/
 
 ### Mac OS ###
 .DS_Store
+
+# Extra ignore rules for Task 4
+*.log
+temp/
+*.class
